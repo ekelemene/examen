@@ -7,4 +7,4 @@
 Выведите информацию о том, как все ученики экземпляра класса ClassRoom умеют учиться, читать, писать, отдыхать.
 Пример консольного вывода:
 ![image](https://github.com/user-attachments/assets/f9964ade-51c0-46e4-918a-926935dccb90)
-![image](https://github.com/user-attachments/assets/f9964ade-51c0-46e4-918a-926935dccb90)
+
